@@ -1,10 +1,10 @@
-(defproject contentjon/kit.cljs "0.1.0-SNAPSHOT"
+(defproject contentjon/kit.cljs "0.1.0"
   :description      "A ClojureScript support library for other projects"
   :url              "https://github.com/contentjon/kit.cljs"
   :license          {:name         "EPL"
                      :url          "http://www.eclipse.org/legal/epl-v10.html"
                      :distribution :repo
-                     :comments     "Same Clojure"}
+                     :comments     "Same as Clojure"}
   :min-lein-version "2.0.0"
   :plugins          [[lein-cljsbuild "0.3.1"]]
   :dependencies     [[org.clojure/clojure "1.5.1"]]
