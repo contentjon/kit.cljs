@@ -1,4 +1,4 @@
-(defproject contentjon/kit.cljs "0.1.0-SNAPSHOT"
+(defproject contentjon/kit.cljs "0.2.0-SNAPSHOT"
   :description      "A ClojureScript support library for other projects"
   :url              "https://github.com/contentjon/kit.cljs"
   :license          {:name         "EPL"
